@@ -1,0 +1,3 @@
+Tela home mostra o valor na conta e um teclado numerico junto a um input de valor monetario. no teclado vai ter um botão de enviar e outro de receber o valor informado e apertado vai ter a lista de players e o banco.
+
+Abaixo do teclado numerico vai ter um log com todas as transações da sua conta e do banco para saber quem pegou e quem pagou.
